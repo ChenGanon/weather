@@ -10,7 +10,7 @@ class App extends Component {
         key: API_KEY,
         base: API_URL
       },
-      query: "israel",
+      query: "tel aviv",
       result: ""
     };
   }
